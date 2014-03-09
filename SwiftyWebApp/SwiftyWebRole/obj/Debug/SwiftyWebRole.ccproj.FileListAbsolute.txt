@@ -1,0 +1,2 @@
+c:\users\rushisr\documents\visual studio 2012\Projects\SwiftyWebApp\SwiftyWebRole\bin\Debug\ServiceConfiguration.cscfg
+c:\users\rushisr\documents\visual studio 2012\Projects\SwiftyWebApp\SwiftyWebRole\bin\Debug\ServiceDefinition.csdef
